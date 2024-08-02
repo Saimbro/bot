@@ -3,3 +3,5 @@ discord.py
 google-generativeai
 python-dotenv
 PyPDF2
+youtube_transcript_api
+bs4
